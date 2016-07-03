@@ -1,2 +1,2 @@
 # SingleScreenFragment
-Fragment with single Screen
+Single Screen Fragment Example
